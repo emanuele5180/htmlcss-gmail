@@ -1,0 +1,60 @@
+* {
+  margin:0
+  padding:0
+  box-sizing: border-box;
+}
+
+body {
+background-image: url(../img/sfondo-gmail.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 80%;
+margin: 0 auto;
+}
+
+
+.mail {
+  background-color: lightgrey;
+  border: 1px solid black
+}
+.letta {
+  background-color: white;
+
+}
+
+#titolo{
+  color: white
+
+}
+
+#alert-mail-non-lette {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+
+
+  }
+#numero {
+  background-color: #ffab00;
+  border-radius: 50%;
+  padding:5px
+
+
+}
+
+#chiusura {
+  text-align: center;
+  color: white
+
+}
+
+#alert-mail-non-lette {
+  color: white
+
+}
+
+#logo {
+  height: 100px;
+  vertical-align:middle;
+
+}
